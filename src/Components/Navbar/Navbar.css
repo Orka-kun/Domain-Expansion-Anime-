@@ -1,0 +1,47 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 40px 120px;
+    color: white;
+}
+.nav-logo{
+    font-family: Outfit;
+    font-size: 42px;
+    font-weight: 500;
+}
+.nav-menu{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    font-size: 18px;
+    gap: 40px;
+}
+.characters{
+    border-radius: 50px;
+    background: azure;
+    padding: 4px 20px;
+    color: black;
+    cursor: pointer;
+}
+.home{
+    border-radius: 50px;
+    background: azure;
+    padding: 4px 20px;
+    color: black;
+    cursor: pointer;
+}
+.ability{
+    border-radius: 50px;
+    background: azure;
+    padding: 4px 20px;
+    color: black;
+    cursor: pointer;
+}
+.strength{
+    border-radius: 50px;
+    background: azure;
+    padding: 4px 20px;
+    color: black;
+    cursor: pointer;
+}
